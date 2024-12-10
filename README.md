@@ -5,7 +5,7 @@
 </p>
 
 ## 📒 Descrição
-Neste e-book de 11 páginas trazemos o Espaço como um sonho agora "possível". Direto do Mundo da Lua, criamos um conteúdo leve e descontraído que convida ao leitores a se despreenderem da realidade e viajarem conosco pelo mundo da imaginação.
+Neste e-book de 11 páginas trazemos o Espaço como um sonho agora "possível". Direto do Mundo da Lua, criamos um conteúdo leve e descontraído que convida ao leitores a se desprenderem da realidade e viajarem conosco pelo mundo da imaginação.
 .
 
 ## 🤖 Tecnologias Utilizadas
