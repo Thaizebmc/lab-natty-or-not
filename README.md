@@ -1,5 +1,9 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
+<p align="center">
+<a href="https://dio.me/"><img src="assets/capared.jpg" alt="Na Corda Bamba"></a>
+</p>
+
 ## 📒 Descrição
 Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
