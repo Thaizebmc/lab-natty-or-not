@@ -1,4 +1,6 @@
-# A Jornada da IA: NO MUNDO DA LUA: Um novo destino para os seus planos 🌌
+# A Jornada da IA: 
+
+# NO MUNDO DA LUA: Um novo destino para os seus planos 🌌
 
 <p align="center">
 <a href="https://dio.me/"><img src="assets/capared.jpg" alt="Na Corda Bamba"></a>
